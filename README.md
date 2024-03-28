@@ -1,12 +1,13 @@
-# Fashion-MNIST Classification Project Summary
+## Fashion-MNIST Classification Project Summary
 
-## Project Dates:
+### Project Dates:
 Project Start Month: April 2023 \
 Project End Month: May 2023
 
 ### **Project Overview**
 
-Developed advanced CNN models using PyTorch to classify images from the Fashion-MNIST dataset, achieving high accuracy and demonstrating deep learning competency.
+Developed advanced CNN models using PyTorch to classify images from the Fashion-MNIST dataset, achieving high accuracy and demonstrating deep learning competency. \\
+The machine learning model's code is located in the [myAttempt folder](https://github.com/siuLongBao/fashion-mnist/tree/master/myAttempt).
 
 ### **Achievements**
 
