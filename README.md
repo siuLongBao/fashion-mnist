@@ -1,7 +1,7 @@
 # Fashion-MNIST Classification Project Summary
 
 ## Project Dates:
-Project Start Month: April 2023
+Project Start Month: April 2023 \
 Project End Month: May 2023
 
 ### **Project Overview**
